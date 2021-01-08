@@ -1,6 +1,6 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+﻿<Project Sdk="Microsoft.NET.App">
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>netcoreapp5.0</TargetFramework>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Nanook.NKit</RootNamespace>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>

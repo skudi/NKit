@@ -15,10 +15,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecoverToNKit", "RecoverToN
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecoveryExtract", "RecoveryExtract\RecoveryExtract.csproj", "{89901BA7-E5CE-48A4-9244-89909D28C373}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NKitExtractionApp", "NKitExtractionApp\NKitExtractionApp.csproj", "{189DD574-041D-43D4-B33B-E8AC8576EDFD}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NKitProcessingApp", "NKitProcessingApp\NKitProcessingApp.csproj", "{CD168246-B911-4052-A9EE-3F04D742CF29}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A212072B-E38B-410B-A242-82BEF4312CC3}"
 	ProjectSection(SolutionItems) = preProject
 		Issues.txt = Issues.txt
